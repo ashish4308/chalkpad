@@ -1,0 +1,31 @@
+.m {
+    display: flex;
+    background-color: rgb(32, 126, 199);
+    height: 35px;
+    border-radius: 7px;
+    color: white;
+    width: 93%;
+}
+
+.m>div {
+    margin-top: 7px;
+    margin-left: 6px;
+    font-size: 14px;
+}
+
+.footer {
+    display: flex;
+    background-color: rgba(32, 127, 199, 0.564);
+    height: 15px;
+    color: white;
+    width: 93%;
+    margin-bottom: 0;
+}
+
+.footer>p {
+    margin-top: 0%;
+    font-size: 12px;
+    color: white;
+    height: 15px;
+    margin-left: 30px;
+}

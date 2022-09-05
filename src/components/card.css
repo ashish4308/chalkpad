@@ -1,0 +1,39 @@
+.cardmain {
+    display: flex;
+}
+
+.card {
+    width: 500px;
+    padding: 16px;
+    height: 150px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 8px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.logo>img {
+    width: 30px;
+    height: 30px;
+}
+
+.cardcontainer>div>h4 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.cardcontainer>div>h3 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.cardcontainer {
+    margin: 0;
+    display: flex;
+}
+
+.cardcontainer>div>p {
+    font-size: small;
+    margin-block-start: 0;
+}

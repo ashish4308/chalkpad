@@ -1,0 +1,27 @@
+.home {
+    height: 1500px;
+    margin-right: 130px;
+    margin-left: 270px;
+}
+
+.dashbord {
+    display: flex;
+    justify-content: space-between;
+    width: 92%;
+    border: 10px;
+    margin: 5px;
+    border-style: solid;
+    border-color: rgba(217, 217, 0, 0.655);
+    border-width: 2px;
+    height: 25px;
+    background-color: rgba(237, 246, 137, 0.676);
+}
+
+.dashbord>div {
+    font-size: small;
+    margin: 2px;
+}
+
+.dashbord>input {
+    margin: 2px;
+}

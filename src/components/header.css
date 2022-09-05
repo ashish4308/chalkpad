@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image>img {
+    height: 60px;
+    margin-top: 20px;
+}
+
+.profile>img {
+    margin-top: 20px;
+    height: 70px;
+    border-radius: 100px;
+}
+
+.profile {
+    display: flex;
+}
+
+.contend {
+    margin: 20px;
+    font-size: 15px;
+    text-align: right;
+}
+
+.contend>div {
+    margin-bottom: 8px;
+}
+
+.contend>div>span {
+    color: red;
+}
